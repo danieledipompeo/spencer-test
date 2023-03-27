@@ -7,9 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+  SPENCER Laboratory
+hero_media: spencer_logo.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +19,8 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **SPENCER Lab**'s objective is the study of techniques and methodologies for the analysis and optimization of the performance of software systems, also in combination with other software quality attributes.
+<!--The approaches studied address different phases of the software development cycle (from the design phase to the release phase) and can be categorized into three different macro-areas:
+software quality optimization by exploring architectural alternatives through model-based quality analysis (design phase);
+performance testing (pre-release phase);
+Automatic identification of critical performance issues and support for their resolution (release phase).-->
